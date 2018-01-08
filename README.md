@@ -1,7 +1,7 @@
 # SIEge
 SIEge presents semantic embeddings and evaluation datasets for Triple Extraction:
 
-1. Evaluation dataset for Entity Linking  [Entity Linking Evaluation Dataset](https://github.com/einan/WeDGeM "WeDGem")
+1. Evaluation dataset for Entity Linking  [WeDGem Dataset](https://github.com/einan/WeDGeM "WeDGem")
 
 2. Wikipedia text for movie domain that is tagged by Dbpedia movie domain entities
 [Evaluation WikiText](https://drive.google.com/file/d/1REbRjMRNYqnLy2ma65owW4p5TI7z2l4X/view?usp=sharing "Evaluation WikiText") 
